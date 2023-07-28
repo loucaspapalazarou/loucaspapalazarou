@@ -1,5 +1,5 @@
 ### Hello!👋 
-- 🔭 I’m currently working on my [thesis](https://github.com/loukaspapalazarou/BFT-Distributed-G-Set)
+- 🔭 I'm currently pursuing a Master's degree in [Data Science at the University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2023&id=902).
 
 <!--
 **loukaspapalazarou/loukaspapalazarou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
