@@ -1,6 +1,8 @@
 ## Hi, I'm Loucas!
 
-I'm currently pursuing my MSc in Data Science from [The University of Edinburgh](https://www.ed.ac.uk/)
+### Currently
+- Software Engineer at [Calnex Solutions](https://calnexsol.com/)
+- Pursuing MSc in Data Science from [The University of Edinburgh](https://www.ed.ac.uk/)
 
 ### Main interests
 - Machine Learning
