@@ -1,4 +1,8 @@
-Hi, I'm Loucas
+## Hi, I'm Loucas!
+---
+I'm currently pursuing my MSc in Data Science from [The University of Edinburgh](https://www.ed.ac.uk/)
 
-- Currently pursuing my MSc in Data Science from [The University of Edinburgh](https://www.ed.ac.uk/)
-- Mainly interested in Machine Learning and Backend Software Engineering 
+### Main interests
+- Machine Learning
+- Data Science
+- Backend Software Engineering 
